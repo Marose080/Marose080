@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marose080
+- 👋 Hi, I’m Mary Rose
 - 👀 I’m interested in a data analytics job
 - 🌱 I’m currently honing my skills in SQL and Power Bi
 - 💞️ I’m looking for a data analyst job
